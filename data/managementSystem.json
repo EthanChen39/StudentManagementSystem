@@ -1,0 +1,4151 @@
+{
+    "instructorList": [
+        {
+            "gender": "FEMALE",
+            "yearsOfExperience": 3,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:855",
+            "TeachingCourses": [
+                {
+                    "Credits": 3,
+                    "SubjectCode": "PHRM",
+                    "Section": 1
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "CNRS",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "AUDI",
+                    "Section": 3
+                }
+            ],
+            "id": 15291,
+            "age": 11,
+            "faculty": "DENTISTRY",
+            "wage": 15.2
+        },
+        {
+            "gender": "FEMALE",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:593",
+            "TeachingCourses": [
+                {
+                    "Credits": 4,
+                    "SubjectCode": "BAHR",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "FSCT",
+                    "Section": 8
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "IWME",
+                    "Section": 5
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "ARC",
+                    "Section": 7
+                }
+            ],
+            "id": 17069,
+            "age": 40,
+            "faculty": "SCIENCE",
+            "wage": 15.2
+        },
+        {
+            "gender": "TRANS",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:557",
+            "TeachingCourses": [
+                {
+                    "Credits": 3,
+                    "SubjectCode": "ASL",
+                    "Section": 2
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "PHYS",
+                    "Section": 7
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "AGEC",
+                    "Section": 3
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "EDUC",
+                    "Section": 6
+                }
+            ],
+            "id": 13995,
+            "age": 45,
+            "faculty": "APPLIED_SCIENCE",
+            "wage": 15.2
+        },
+        {
+            "gender": "FEMALE",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:186",
+            "TeachingCourses": [
+                {
+                    "Credits": 4,
+                    "SubjectCode": "ITST",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "STS",
+                    "Section": 0
+                }
+            ],
+            "id": 12108,
+            "age": 15,
+            "faculty": "ARTS",
+            "wage": 15.2
+        },
+        {
+            "gender": "NEUTRAL",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:648",
+            "TeachingCourses": [
+                {
+                    "Credits": 3,
+                    "SubjectCode": "STS",
+                    "Section": 0
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "INDS",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "BOTA",
+                    "Section": 7
+                }
+            ],
+            "id": 11340,
+            "age": 29,
+            "faculty": "MEDICINE",
+            "wage": 15.2
+        },
+        {
+            "gender": "NEUTRAL",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:270",
+            "TeachingCourses": [
+                {
+                    "Credits": 4,
+                    "SubjectCode": "LAIS",
+                    "Section": 9
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "PHYS",
+                    "Section": 7
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "PHRM",
+                    "Section": 1
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "ENPP",
+                    "Section": 4
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "BAMA",
+                    "Section": 7
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "CNRS",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "EDUC",
+                    "Section": 6
+                }
+            ],
+            "id": 18112,
+            "age": 44,
+            "faculty": "EDUCATION",
+            "wage": 15.2
+        },
+        {
+            "gender": "FEMALE",
+            "yearsOfExperience": 2,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:708",
+            "TeachingCourses": [{
+                "Credits": 4,
+                "SubjectCode": "CSPW",
+                "Section": 4
+            }],
+            "id": 17029,
+            "age": 8,
+            "faculty": "ARTS",
+            "wage": 15.2
+        },
+        {
+            "gender": "TRANS",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:905",
+            "TeachingCourses": [
+                {
+                    "Credits": 4,
+                    "SubjectCode": "BIOF",
+                    "Section": 9
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "ARC",
+                    "Section": 7
+                }
+            ],
+            "id": 14652,
+            "age": 39,
+            "faculty": "FORESTRY",
+            "wage": 15.2
+        },
+        {
+            "gender": "OTHERS",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:115",
+            "TeachingCourses": [
+                {
+                    "Credits": 3,
+                    "SubjectCode": "BOTA",
+                    "Section": 7
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "BIOF",
+                    "Section": 9
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "AUDI",
+                    "Section": 3
+                }
+            ],
+            "id": 18297,
+            "age": 26,
+            "faculty": "ARTS",
+            "wage": 15.2
+        },
+        {
+            "gender": "FEMALE",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:19",
+            "TeachingCourses": [{
+                "Credits": 4,
+                "SubjectCode": "LAW",
+                "Section": 7
+            }],
+            "id": 15008,
+            "age": 6,
+            "faculty": "EDUCATION",
+            "wage": 15.2
+        },
+        {
+            "gender": "FEMALE",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:915",
+            "TeachingCourses": [
+                {
+                    "Credits": 4,
+                    "SubjectCode": "AGEC",
+                    "Section": 3
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "BAIT",
+                    "Section": 4
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "ASIC",
+                    "Section": 6
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "LAW",
+                    "Section": 7
+                }
+            ],
+            "id": 18356,
+            "age": 46,
+            "faculty": "NO_FACULTY",
+            "wage": 15.2
+        },
+        {
+            "gender": "MALE",
+            "yearsOfExperience": 2,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:737",
+            "TeachingCourses": [
+                {
+                    "Credits": 4,
+                    "SubjectCode": "ITST",
+                    "Section": 5
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "CHIL",
+                    "Section": 9
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "BAIT",
+                    "Section": 4
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "LIBR",
+                    "Section": 5
+                }
+            ],
+            "id": 15779,
+            "age": 30,
+            "faculty": "PHARMACEUTICAL_SCIENCES",
+            "wage": 15.2
+        },
+        {
+            "gender": "OTHERS",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:20",
+            "TeachingCourses": [{
+                "Credits": 3,
+                "SubjectCode": "AGEC",
+                "Section": 6
+            }],
+            "id": 11233,
+            "age": 34,
+            "faculty": "EDUCATION",
+            "wage": 15.2
+        },
+        {
+            "gender": "OTHERS",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:950",
+            "TeachingCourses": [{
+                "Credits": 4,
+                "SubjectCode": "PSYC",
+                "Section": 3
+            }],
+            "id": 16031,
+            "age": 38,
+            "faculty": "EDUCATION",
+            "wage": 15.2
+        },
+        {
+            "gender": "FEMALE",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:553",
+            "TeachingCourses": [
+                {
+                    "Credits": 3,
+                    "SubjectCode": "ASL",
+                    "Section": 2
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "ASIC",
+                    "Section": 6
+                }
+            ],
+            "id": 13376,
+            "age": 36,
+            "faculty": "ARTS",
+            "wage": 15.2
+        },
+        {
+            "gender": "TRANS",
+            "yearsOfExperience": 3,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:916",
+            "TeachingCourses": [{
+                "Credits": 4,
+                "SubjectCode": "BAPA",
+                "Section": 4
+            }],
+            "id": 11451,
+            "age": 8,
+            "faculty": "ARTS",
+            "wage": 15.2
+        },
+        {
+            "gender": "FEMALE",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:589",
+            "TeachingCourses": [
+                {
+                    "Credits": 3,
+                    "SubjectCode": "ENPP",
+                    "Section": 4
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "IWME",
+                    "Section": 5
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "PSYC",
+                    "Section": 3
+                }
+            ],
+            "id": 15860,
+            "age": 19,
+            "faculty": "EDUCATION",
+            "wage": 15.2
+        },
+        {
+            "gender": "OTHERS",
+            "yearsOfExperience": 3,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:376",
+            "TeachingCourses": [
+                {
+                    "Credits": 4,
+                    "SubjectCode": "BAPA",
+                    "Section": 4
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "CSPW",
+                    "Section": 4
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "BAMA",
+                    "Section": 7
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "LIBR",
+                    "Section": 5
+                }
+            ],
+            "id": 17442,
+            "age": 20,
+            "faculty": "COMMERCE",
+            "wage": 15.2
+        },
+        {
+            "gender": "NEUTRAL",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:403",
+            "TeachingCourses": [
+                {
+                    "Credits": 3,
+                    "SubjectCode": "INDS",
+                    "Section": 5
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "LAIS",
+                    "Section": 9
+                },
+                {
+                    "Credits": 4,
+                    "SubjectCode": "CHIL",
+                    "Section": 9
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "JAPN",
+                    "Section": 4
+                }
+            ],
+            "id": 13307,
+            "age": 46,
+            "faculty": "SCIENCE",
+            "wage": 15.2
+        },
+        {
+            "gender": "FEMALE",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:741",
+            "TeachingCourses": [
+                {
+                    "Credits": 4,
+                    "SubjectCode": "BAHR",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "SubjectCode": "JAPN",
+                    "Section": 4
+                }
+            ],
+            "id": 10240,
+            "age": 43,
+            "faculty": "DENTISTRY",
+            "wage": 15.2
+        }
+    ],
+    "taList": [
+        {
+            "gender": "TRANS",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "TA TestName:371",
+            "id": 12096,
+            "age": 40,
+            "faculty": "DENTISTRY",
+            "wage": 15.2
+        },
+        {
+            "gender": "NEUTRAL",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "TA TestName:347",
+            "id": 15081,
+            "age": 35,
+            "faculty": "NO_FACULTY",
+            "wage": 15.2
+        },
+        {
+            "gender": "NEUTRAL",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "TA TestName:825",
+            "id": 19843,
+            "age": 47,
+            "faculty": "NO_FACULTY",
+            "wage": 15.2
+        },
+        {
+            "gender": "NEUTRAL",
+            "yearsOfExperience": 2,
+            "isCovidPositive": false,
+            "name": "TA TestName:781",
+            "id": 12310,
+            "age": 32,
+            "faculty": "ARTS",
+            "wage": 15.2
+        },
+        {
+            "gender": "NEUTRAL",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "TA TestName:375",
+            "id": 19971,
+            "age": 15,
+            "faculty": "PHARMACEUTICAL_SCIENCES",
+            "wage": 15.2
+        },
+        {
+            "gender": "TRANS",
+            "yearsOfExperience": 2,
+            "isCovidPositive": false,
+            "name": "TA TestName:239",
+            "id": 13715,
+            "age": 15,
+            "faculty": "LAND_AND_FOOD_SYSTEM",
+            "wage": 15.2
+        },
+        {
+            "gender": "NEUTRAL",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "TA TestName:115",
+            "id": 19935,
+            "age": 41,
+            "faculty": "FORESTRY",
+            "wage": 15.2
+        },
+        {
+            "gender": "FEMALE",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "TA TestName:31",
+            "id": 18627,
+            "age": 30,
+            "faculty": "SCIENCE",
+            "wage": 15.2
+        },
+        {
+            "gender": "NEUTRAL",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "TA TestName:280",
+            "id": 11475,
+            "age": 5,
+            "faculty": "PHARMACEUTICAL_SCIENCES",
+            "wage": 15.2
+        },
+        {
+            "gender": "MALE",
+            "yearsOfExperience": 2,
+            "isCovidPositive": false,
+            "name": "TA TestName:617",
+            "id": 19376,
+            "age": 7,
+            "faculty": "NO_FACULTY",
+            "wage": 15.2
+        },
+        {
+            "gender": "MALE",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "TA TestName:817",
+            "id": 13415,
+            "age": 47,
+            "faculty": "FORESTRY",
+            "wage": 15.2
+        },
+        {
+            "gender": "FEMALE",
+            "yearsOfExperience": 3,
+            "isCovidPositive": false,
+            "name": "TA TestName:638",
+            "id": 12008,
+            "age": 19,
+            "faculty": "ARTS",
+            "wage": 15.2
+        },
+        {
+            "gender": "OTHERS",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "TA TestName:160",
+            "id": 17454,
+            "age": 16,
+            "faculty": "NO_FACULTY",
+            "wage": 15.2
+        },
+        {
+            "gender": "TRANS",
+            "yearsOfExperience": 2,
+            "isCovidPositive": false,
+            "name": "TA TestName:301",
+            "id": 15853,
+            "age": 7,
+            "faculty": "MEDICINE",
+            "wage": 15.2
+        },
+        {
+            "gender": "OTHERS",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "TA TestName:231",
+            "id": 12706,
+            "age": 20,
+            "faculty": "EDUCATION",
+            "wage": 15.2
+        },
+        {
+            "gender": "OTHERS",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "TA TestName:330",
+            "id": 15813,
+            "age": 12,
+            "faculty": "LAND_AND_FOOD_SYSTEM",
+            "wage": 15.2
+        },
+        {
+            "gender": "MALE",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "TA TestName:639",
+            "id": 18141,
+            "age": 42,
+            "faculty": "EDUCATION",
+            "wage": 15.2
+        },
+        {
+            "gender": "TRANS",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "TA TestName:743",
+            "id": 14710,
+            "age": 48,
+            "faculty": "MEDICINE",
+            "wage": 15.2
+        },
+        {
+            "gender": "FEMALE",
+            "yearsOfExperience": 3,
+            "isCovidPositive": false,
+            "name": "TA TestName:734",
+            "id": 14811,
+            "age": 17,
+            "faculty": "DENTISTRY",
+            "wage": 15.2
+        },
+        {
+            "gender": "OTHERS",
+            "yearsOfExperience": 2,
+            "isCovidPositive": false,
+            "name": "TA TestName:79",
+            "id": 17957,
+            "age": 41,
+            "faculty": "DENTISTRY",
+            "wage": 15.2
+        },
+        {
+            "gender": "NEUTRAL",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "TA TestName:566",
+            "id": 10296,
+            "age": 3,
+            "faculty": "COMMERCE",
+            "wage": 15.2
+        },
+        {
+            "gender": "NEUTRAL",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "TA TestName:141",
+            "id": 13453,
+            "age": 9,
+            "faculty": "ARTS",
+            "wage": 15.2
+        },
+        {
+            "gender": "TRANS",
+            "yearsOfExperience": 2,
+            "isCovidPositive": false,
+            "name": "TA TestName:263",
+            "id": 10718,
+            "age": 12,
+            "faculty": "COMMERCE",
+            "wage": 15.2
+        },
+        {
+            "gender": "TRANS",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "TA TestName:528",
+            "id": 15653,
+            "age": 20,
+            "faculty": "SCIENCE",
+            "wage": 15.2
+        },
+        {
+            "gender": "OTHERS",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "TA TestName:771",
+            "id": 14740,
+            "age": 13,
+            "faculty": "ARTS",
+            "wage": 15.2
+        },
+        {
+            "gender": "NEUTRAL",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "TA TestName:514",
+            "id": 11241,
+            "age": 19,
+            "faculty": "COMMERCE",
+            "wage": 15.2
+        },
+        {
+            "gender": "NEUTRAL",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "TA TestName:750",
+            "id": 17919,
+            "age": 1,
+            "faculty": "MEDICINE",
+            "wage": 15.2
+        },
+        {
+            "gender": "TRANS",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "TA TestName:145",
+            "id": 12130,
+            "age": 25,
+            "faculty": "LAND_AND_FOOD_SYSTEM",
+            "wage": 15.2
+        },
+        {
+            "gender": "TRANS",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "TA TestName:418",
+            "id": 16306,
+            "age": 26,
+            "faculty": "FORESTRY",
+            "wage": 15.2
+        },
+        {
+            "gender": "TRANS",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "TA TestName:287",
+            "id": 10950,
+            "age": 38,
+            "faculty": "NO_FACULTY",
+            "wage": 15.2
+        },
+        {
+            "gender": "OTHERS",
+            "yearsOfExperience": 3,
+            "isCovidPositive": false,
+            "name": "TA TestName:543",
+            "id": 16954,
+            "age": 35,
+            "faculty": "DENTISTRY",
+            "wage": 15.2
+        },
+        {
+            "gender": "MALE",
+            "yearsOfExperience": 2,
+            "isCovidPositive": false,
+            "name": "TA TestName:23",
+            "id": 14294,
+            "age": 37,
+            "faculty": "MEDICINE",
+            "wage": 15.2
+        },
+        {
+            "gender": "MALE",
+            "yearsOfExperience": 4,
+            "isCovidPositive": false,
+            "name": "TA TestName:441",
+            "id": 18444,
+            "age": 1,
+            "faculty": "FORESTRY",
+            "wage": 15.2
+        },
+        {
+            "gender": "TRANS",
+            "yearsOfExperience": 2,
+            "isCovidPositive": false,
+            "name": "TA TestName:442",
+            "id": 19358,
+            "age": 7,
+            "faculty": "NO_FACULTY",
+            "wage": 15.2
+        },
+        {
+            "gender": "TRANS",
+            "yearsOfExperience": 3,
+            "isCovidPositive": false,
+            "name": "TA TestName:526",
+            "id": 12905,
+            "age": 22,
+            "faculty": "PHARMACEUTICAL_SCIENCES",
+            "wage": 15.2
+        },
+        {
+            "gender": "OTHERS",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "TA TestName:613",
+            "id": 17586,
+            "age": 15,
+            "faculty": "FORESTRY",
+            "wage": 15.2
+        },
+        {
+            "gender": "MALE",
+            "yearsOfExperience": 2,
+            "isCovidPositive": false,
+            "name": "TA TestName:722",
+            "id": 18921,
+            "age": 26,
+            "faculty": "PHARMACEUTICAL_SCIENCES",
+            "wage": 15.2
+        },
+        {
+            "gender": "OTHERS",
+            "yearsOfExperience": 3,
+            "isCovidPositive": false,
+            "name": "TA TestName:309",
+            "id": 12724,
+            "age": 6,
+            "faculty": "EDUCATION",
+            "wage": 15.2
+        },
+        {
+            "gender": "FEMALE",
+            "yearsOfExperience": 1,
+            "isCovidPositive": false,
+            "name": "TA TestName:974",
+            "id": 11702,
+            "age": 13,
+            "faculty": "APPLIED_SCIENCE",
+            "wage": 15.2
+        },
+        {
+            "gender": "NEUTRAL",
+            "yearsOfExperience": 3,
+            "isCovidPositive": false,
+            "name": "TA TestName:268",
+            "id": 13526,
+            "age": 40,
+            "faculty": "SCIENCE",
+            "wage": 15.2
+        }
+    ],
+    "studentList": [
+        {
+            "Grades": [
+                {"[American Sign Language] section (2) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:553.": 84},
+                {"[Italian Studies] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:737.": 71},
+                {"[Business Administration: Human Resources Management] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:741.": 56},
+                {"[Library, Archival and Information Studies] section (9) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:403.": 61},
+                {"[Interdisciplinary Studies] section (5) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:403.": 79},
+                {"[Agricultural Economics] section (6) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:20.": 70},
+                {"[Science and Technology Studies] section (0) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:186.": 84}
+            ],
+            "YearLevel": "FRESHMAN",
+            "gender": "MALE",
+            "isCovidPositive": false,
+            "name": "StudentTestName:446",
+            "Courses": [
+                {
+                    "Credits": 3,
+                    "Subject Code": "ASL",
+                    "Section": 2
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "ITST",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "STS",
+                    "Section": 0
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "BAHR",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "AGEC",
+                    "Section": 6
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "INDS",
+                    "Section": 5
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "LAIS",
+                    "Section": 9
+                }
+            ],
+            "id": 19714,
+            "age": 18,
+            "faculty": "SCIENCE"
+        },
+        {
+            "Grades": [
+                {"[American Sign Language] section (2) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:553.": 64},
+                {"[Italian Studies] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:737.": 66},
+                {"[Business Administration: Human Resources Management] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:741.": 97},
+                {"[Library, Archival and Information Studies] section (9) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:403.": 56},
+                {"[Interdisciplinary Studies] section (5) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:403.": 90},
+                {"[Agricultural Economics] section (6) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:20.": 52},
+                {"[Science and Technology Studies] section (0) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:186.": 66}
+            ],
+            "YearLevel": "JUNIOR",
+            "gender": "FEMALE",
+            "isCovidPositive": false,
+            "name": "StudentTestName:786",
+            "Courses": [
+                {
+                    "Credits": 3,
+                    "Subject Code": "ASL",
+                    "Section": 2
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "ITST",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "STS",
+                    "Section": 0
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "BAHR",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "AGEC",
+                    "Section": 6
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "INDS",
+                    "Section": 5
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "LAIS",
+                    "Section": 9
+                }
+            ],
+            "id": 12916,
+            "age": 26,
+            "faculty": "FORESTRY"
+        },
+        {
+            "Grades": [
+                {"[American Sign Language] section (2) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:553.": 97},
+                {"[Italian Studies] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:737.": 87},
+                {"[Business Administration: Human Resources Management] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:741.": 60},
+                {"[Library, Archival and Information Studies] section (9) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:403.": 82},
+                {"[Interdisciplinary Studies] section (5) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:403.": 56},
+                {"[Agricultural Economics] section (6) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:20.": 58},
+                {"[Science and Technology Studies] section (0) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:186.": 81}
+            ],
+            "YearLevel": "SENIOR",
+            "gender": "FEMALE",
+            "isCovidPositive": false,
+            "name": "StudentTestName:577",
+            "Courses": [
+                {
+                    "Credits": 3,
+                    "Subject Code": "ASL",
+                    "Section": 2
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "ITST",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "STS",
+                    "Section": 0
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "BAHR",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "AGEC",
+                    "Section": 6
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "INDS",
+                    "Section": 5
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "LAIS",
+                    "Section": 9
+                }
+            ],
+            "id": 19973,
+            "age": 25,
+            "faculty": "DENTISTRY"
+        },
+        {
+            "Grades": [
+                {"[American Sign Language] section (2) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:553.": 56},
+                {"[Italian Studies] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:737.": 96},
+                {"[Business Administration: Human Resources Management] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:741.": 67},
+                {"[Library, Archival and Information Studies] section (9) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:403.": 63},
+                {"[Interdisciplinary Studies] section (5) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:403.": 59},
+                {"[Agricultural Economics] section (6) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:20.": 57},
+                {"[Science and Technology Studies] section (0) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:186.": 75}
+            ],
+            "YearLevel": "GRAD_PHD",
+            "gender": "MALE",
+            "isCovidPositive": false,
+            "name": "StudentTestName:21",
+            "Courses": [
+                {
+                    "Credits": 3,
+                    "Subject Code": "ASL",
+                    "Section": 2
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "ITST",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "STS",
+                    "Section": 0
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "BAHR",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "AGEC",
+                    "Section": 6
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "INDS",
+                    "Section": 5
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "LAIS",
+                    "Section": 9
+                }
+            ],
+            "id": 18763,
+            "age": 21,
+            "faculty": "SCIENCE"
+        },
+        {
+            "Grades": [
+                {"[American Sign Language] section (2) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:553.": 72},
+                {"[Italian Studies] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:737.": 56},
+                {"[Business Administration: Human Resources Management] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:741.": 90},
+                {"[Library, Archival and Information Studies] section (9) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:403.": 76},
+                {"[Interdisciplinary Studies] section (5) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:403.": 78},
+                {"[Agricultural Economics] section (6) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:20.": 58},
+                {"[Science and Technology Studies] section (0) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:186.": 89}
+            ],
+            "YearLevel": "GRAD_MASTER",
+            "gender": "OTHERS",
+            "isCovidPositive": false,
+            "name": "StudentTestName:194",
+            "Courses": [
+                {
+                    "Credits": 3,
+                    "Subject Code": "ASL",
+                    "Section": 2
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "ITST",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "STS",
+                    "Section": 0
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "BAHR",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "AGEC",
+                    "Section": 6
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "INDS",
+                    "Section": 5
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "LAIS",
+                    "Section": 9
+                }
+            ],
+            "id": 17803,
+            "age": 23,
+            "faculty": "NO_FACULTY"
+        },
+        {
+            "Grades": [
+                {"[American Sign Language] section (2) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:553.": 65},
+                {"[Italian Studies] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:737.": 65},
+                {"[Business Administration: Human Resources Management] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:741.": 78},
+                {"[Library, Archival and Information Studies] section (9) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:403.": 75},
+                {"[Interdisciplinary Studies] section (5) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:403.": 53},
+                {"[Agricultural Economics] section (6) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:20.": 55},
+                {"[Science and Technology Studies] section (0) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:186.": 63}
+            ],
+            "YearLevel": "SENIOR",
+            "gender": "OTHERS",
+            "isCovidPositive": false,
+            "name": "StudentTestName:46",
+            "Courses": [
+                {
+                    "Credits": 3,
+                    "Subject Code": "ASL",
+                    "Section": 2
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "ITST",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "STS",
+                    "Section": 0
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "BAHR",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "AGEC",
+                    "Section": 6
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "INDS",
+                    "Section": 5
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "LAIS",
+                    "Section": 9
+                }
+            ],
+            "id": 11592,
+            "age": 27,
+            "faculty": "FORESTRY"
+        },
+        {
+            "Grades": [
+                {"[American Sign Language] section (2) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:553.": 78},
+                {"[Italian Studies] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:737.": 86},
+                {"[Business Administration: Human Resources Management] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:741.": 74},
+                {"[Library, Archival and Information Studies] section (9) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:403.": 51},
+                {"[Interdisciplinary Studies] section (5) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:403.": 79},
+                {"[Agricultural Economics] section (6) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:20.": 80},
+                {"[Science and Technology Studies] section (0) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:186.": 91}
+            ],
+            "YearLevel": "GRAD_POSTDOC",
+            "gender": "OTHERS",
+            "isCovidPositive": false,
+            "name": "StudentTestName:448",
+            "Courses": [
+                {
+                    "Credits": 3,
+                    "Subject Code": "ASL",
+                    "Section": 2
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "ITST",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "STS",
+                    "Section": 0
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "BAHR",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "AGEC",
+                    "Section": 6
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "INDS",
+                    "Section": 5
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "LAIS",
+                    "Section": 9
+                }
+            ],
+            "id": 16978,
+            "age": 19,
+            "faculty": "EDUCATION"
+        },
+        {
+            "Grades": [
+                {"[American Sign Language] section (2) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:553.": 89},
+                {"[Italian Studies] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:737.": 87},
+                {"[Business Administration: Human Resources Management] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:741.": 79},
+                {"[Library, Archival and Information Studies] section (9) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:403.": 80},
+                {"[Interdisciplinary Studies] section (5) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:403.": 71},
+                {"[Agricultural Economics] section (6) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:20.": 61},
+                {"[Science and Technology Studies] section (0) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:186.": 93}
+            ],
+            "YearLevel": "FRESHMAN",
+            "gender": "TRANS",
+            "isCovidPositive": false,
+            "name": "StudentTestName:127",
+            "Courses": [
+                {
+                    "Credits": 3,
+                    "Subject Code": "ASL",
+                    "Section": 2
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "ITST",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "STS",
+                    "Section": 0
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "BAHR",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "AGEC",
+                    "Section": 6
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "INDS",
+                    "Section": 5
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "LAIS",
+                    "Section": 9
+                }
+            ],
+            "id": 19764,
+            "age": 18,
+            "faculty": "ARTS"
+        },
+        {
+            "Grades": [
+                {"[American Sign Language] section (2) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:553.": 66},
+                {"[Italian Studies] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:737.": 55},
+                {"[Business Administration: Human Resources Management] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:741.": 81},
+                {"[Library, Archival and Information Studies] section (9) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:403.": 68},
+                {"[Interdisciplinary Studies] section (5) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:403.": 80},
+                {"[Agricultural Economics] section (6) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:20.": 94},
+                {"[Science and Technology Studies] section (0) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:186.": 84}
+            ],
+            "YearLevel": "GRAD_MASTER",
+            "gender": "OTHERS",
+            "isCovidPositive": false,
+            "name": "StudentTestName:497",
+            "Courses": [
+                {
+                    "Credits": 3,
+                    "Subject Code": "ASL",
+                    "Section": 2
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "ITST",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "STS",
+                    "Section": 0
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "BAHR",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "AGEC",
+                    "Section": 6
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "INDS",
+                    "Section": 5
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "LAIS",
+                    "Section": 9
+                }
+            ],
+            "id": 18114,
+            "age": 25,
+            "faculty": "FORESTRY"
+        },
+        {
+            "Grades": [
+                {"[American Sign Language] section (2) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:553.": 81},
+                {"[Italian Studies] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:737.": 87},
+                {"[Business Administration: Human Resources Management] section (5) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:741.": 71},
+                {"[Library, Archival and Information Studies] section (9) with credits {4} has 10 student(s). Main Instructor: InstructorTestName:403.": 53},
+                {"[Interdisciplinary Studies] section (5) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:403.": 75},
+                {"[Agricultural Economics] section (6) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:20.": 79},
+                {"[Science and Technology Studies] section (0) with credits {3} has 10 student(s). Main Instructor: InstructorTestName:186.": 72}
+            ],
+            "YearLevel": "GRAD_POSTDOC",
+            "gender": "FEMALE",
+            "isCovidPositive": false,
+            "name": "StudentTestName:241",
+            "Courses": [
+                {
+                    "Credits": 3,
+                    "Subject Code": "ASL",
+                    "Section": 2
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "ITST",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "STS",
+                    "Section": 0
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "BAHR",
+                    "Section": 5
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "AGEC",
+                    "Section": 6
+                },
+                {
+                    "Credits": 3,
+                    "Subject Code": "INDS",
+                    "Section": 5
+                },
+                {
+                    "Credits": 4,
+                    "Subject Code": "LAIS",
+                    "Section": 9
+                }
+            ],
+            "id": 11840,
+            "age": 27,
+            "faculty": "DENTISTRY"
+        }
+    ],
+    "courseList": [
+        {
+            "instructorList": [
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:553",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ASL",
+                            "Section": 2
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ASIC",
+                            "Section": 6
+                        }
+                    ],
+                    "id": 13376,
+                    "age": 36,
+                    "faculty": "ARTS",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "TRANS",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:557",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ASL",
+                            "Section": 2
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "PHYS",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "AGEC",
+                            "Section": 3
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "EDUC",
+                            "Section": 6
+                        }
+                    ],
+                    "id": 13995,
+                    "age": 45,
+                    "faculty": "APPLIED_SCIENCE",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 3,
+            "SubjectCode": "ASL",
+            "taList": [
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 3,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:268",
+                    "id": 13526,
+                    "age": 40,
+                    "faculty": "SCIENCE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "MALE",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:817",
+                    "id": 13415,
+                    "age": 47,
+                    "faculty": "FORESTRY",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [
+                {
+                    "Student name": "StudentTestName:786",
+                    "id": 12916
+                },
+                {
+                    "Student name": "StudentTestName:127",
+                    "id": 19764
+                },
+                {
+                    "Student name": "StudentTestName:241",
+                    "id": 11840
+                },
+                {
+                    "Student name": "StudentTestName:194",
+                    "id": 17803
+                },
+                {
+                    "Student name": "StudentTestName:448",
+                    "id": 16978
+                },
+                {
+                    "Student name": "StudentTestName:497",
+                    "id": 18114
+                },
+                {
+                    "Student name": "StudentTestName:46",
+                    "id": 11592
+                },
+                {
+                    "Student name": "StudentTestName:446",
+                    "id": 19714
+                },
+                {
+                    "Student name": "StudentTestName:21",
+                    "id": 18763
+                },
+                {
+                    "Student name": "StudentTestName:577",
+                    "id": 19973
+                }
+            ],
+            "section": 2
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "MALE",
+                    "yearsOfExperience": 2,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:737",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "ITST",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "CHIL",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAIT",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "LIBR",
+                            "Section": 5
+                        }
+                    ],
+                    "id": 15779,
+                    "age": 30,
+                    "faculty": "PHARMACEUTICAL_SCIENCES",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:186",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "ITST",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "STS",
+                            "Section": 0
+                        }
+                    ],
+                    "id": 12108,
+                    "age": 15,
+                    "faculty": "ARTS",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 4,
+            "SubjectCode": "ITST",
+            "taList": [{
+                "gender": "FEMALE",
+                "yearsOfExperience": 3,
+                "isCovidPositive": false,
+                "name": "TA TestName:734",
+                "id": 14811,
+                "age": 17,
+                "faculty": "DENTISTRY",
+                "wage": 15.2
+            }],
+            "studentList": [
+                {
+                    "Student name": "StudentTestName:21",
+                    "id": 18763
+                },
+                {
+                    "Student name": "StudentTestName:127",
+                    "id": 19764
+                },
+                {
+                    "Student name": "StudentTestName:241",
+                    "id": 11840
+                },
+                {
+                    "Student name": "StudentTestName:786",
+                    "id": 12916
+                },
+                {
+                    "Student name": "StudentTestName:497",
+                    "id": 18114
+                },
+                {
+                    "Student name": "StudentTestName:194",
+                    "id": 17803
+                },
+                {
+                    "Student name": "StudentTestName:448",
+                    "id": 16978
+                },
+                {
+                    "Student name": "StudentTestName:46",
+                    "id": 11592
+                },
+                {
+                    "Student name": "StudentTestName:446",
+                    "id": 19714
+                },
+                {
+                    "Student name": "StudentTestName:577",
+                    "id": 19973
+                }
+            ],
+            "section": 5
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:186",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "ITST",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "STS",
+                            "Section": 0
+                        }
+                    ],
+                    "id": 12108,
+                    "age": 15,
+                    "faculty": "ARTS",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:648",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "STS",
+                            "Section": 0
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "INDS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "BOTA",
+                            "Section": 7
+                        }
+                    ],
+                    "id": 11340,
+                    "age": 29,
+                    "faculty": "MEDICINE",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 3,
+            "SubjectCode": "STS",
+            "taList": [
+                {
+                    "gender": "MALE",
+                    "yearsOfExperience": 2,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:617",
+                    "id": 19376,
+                    "age": 7,
+                    "faculty": "NO_FACULTY",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "TRANS",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:743",
+                    "id": 14710,
+                    "age": 48,
+                    "faculty": "MEDICINE",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [
+                {
+                    "Student name": "StudentTestName:446",
+                    "id": 19714
+                },
+                {
+                    "Student name": "StudentTestName:127",
+                    "id": 19764
+                },
+                {
+                    "Student name": "StudentTestName:194",
+                    "id": 17803
+                },
+                {
+                    "Student name": "StudentTestName:448",
+                    "id": 16978
+                },
+                {
+                    "Student name": "StudentTestName:786",
+                    "id": 12916
+                },
+                {
+                    "Student name": "StudentTestName:241",
+                    "id": 11840
+                },
+                {
+                    "Student name": "StudentTestName:497",
+                    "id": 18114
+                },
+                {
+                    "Student name": "StudentTestName:46",
+                    "id": 11592
+                },
+                {
+                    "Student name": "StudentTestName:21",
+                    "id": 18763
+                },
+                {
+                    "Student name": "StudentTestName:577",
+                    "id": 19973
+                }
+            ],
+            "section": 0
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:741",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAHR",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "JAPN",
+                            "Section": 4
+                        }
+                    ],
+                    "id": 10240,
+                    "age": 43,
+                    "faculty": "DENTISTRY",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:593",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAHR",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "FSCT",
+                            "Section": 8
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "IWME",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "ARC",
+                            "Section": 7
+                        }
+                    ],
+                    "id": 17069,
+                    "age": 40,
+                    "faculty": "SCIENCE",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 4,
+            "SubjectCode": "BAHR",
+            "taList": [
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:566",
+                    "id": 10296,
+                    "age": 3,
+                    "faculty": "COMMERCE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 3,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:309",
+                    "id": 12724,
+                    "age": 6,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [
+                {
+                    "Student name": "StudentTestName:241",
+                    "id": 11840
+                },
+                {
+                    "Student name": "StudentTestName:448",
+                    "id": 16978
+                },
+                {
+                    "Student name": "StudentTestName:446",
+                    "id": 19714
+                },
+                {
+                    "Student name": "StudentTestName:194",
+                    "id": 17803
+                },
+                {
+                    "Student name": "StudentTestName:21",
+                    "id": 18763
+                },
+                {
+                    "Student name": "StudentTestName:577",
+                    "id": 19973
+                },
+                {
+                    "Student name": "StudentTestName:497",
+                    "id": 18114
+                },
+                {
+                    "Student name": "StudentTestName:46",
+                    "id": 11592
+                },
+                {
+                    "Student name": "StudentTestName:786",
+                    "id": 12916
+                },
+                {
+                    "Student name": "StudentTestName:127",
+                    "id": 19764
+                }
+            ],
+            "section": 5
+        },
+        {
+            "instructorList": [{
+                "gender": "OTHERS",
+                "yearsOfExperience": 1,
+                "isCovidPositive": false,
+                "name": "InstructorTestName:20",
+                "TeachingCourses": [{
+                    "Credits": 3,
+                    "SubjectCode": "AGEC",
+                    "Section": 6
+                }],
+                "id": 11233,
+                "age": 34,
+                "faculty": "EDUCATION",
+                "wage": 15.2
+            }],
+            "Credit": 3,
+            "SubjectCode": "AGEC",
+            "taList": [
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:514",
+                    "id": 11241,
+                    "age": 19,
+                    "faculty": "COMMERCE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:115",
+                    "id": 19935,
+                    "age": 41,
+                    "faculty": "FORESTRY",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [
+                {
+                    "Student name": "StudentTestName:127",
+                    "id": 19764
+                },
+                {
+                    "Student name": "StudentTestName:241",
+                    "id": 11840
+                },
+                {
+                    "Student name": "StudentTestName:786",
+                    "id": 12916
+                },
+                {
+                    "Student name": "StudentTestName:497",
+                    "id": 18114
+                },
+                {
+                    "Student name": "StudentTestName:46",
+                    "id": 11592
+                },
+                {
+                    "Student name": "StudentTestName:448",
+                    "id": 16978
+                },
+                {
+                    "Student name": "StudentTestName:446",
+                    "id": 19714
+                },
+                {
+                    "Student name": "StudentTestName:194",
+                    "id": 17803
+                },
+                {
+                    "Student name": "StudentTestName:21",
+                    "id": 18763
+                },
+                {
+                    "Student name": "StudentTestName:577",
+                    "id": 19973
+                }
+            ],
+            "section": 6
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:403",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "INDS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAIS",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "CHIL",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "JAPN",
+                            "Section": 4
+                        }
+                    ],
+                    "id": 13307,
+                    "age": 46,
+                    "faculty": "SCIENCE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:648",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "STS",
+                            "Section": 0
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "INDS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "BOTA",
+                            "Section": 7
+                        }
+                    ],
+                    "id": 11340,
+                    "age": 29,
+                    "faculty": "MEDICINE",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 3,
+            "SubjectCode": "INDS",
+            "taList": [
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 2,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:79",
+                    "id": 17957,
+                    "age": 41,
+                    "faculty": "DENTISTRY",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "TRANS",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:371",
+                    "id": 12096,
+                    "age": 40,
+                    "faculty": "DENTISTRY",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [
+                {
+                    "Student name": "StudentTestName:448",
+                    "id": 16978
+                },
+                {
+                    "Student name": "StudentTestName:786",
+                    "id": 12916
+                },
+                {
+                    "Student name": "StudentTestName:194",
+                    "id": 17803
+                },
+                {
+                    "Student name": "StudentTestName:241",
+                    "id": 11840
+                },
+                {
+                    "Student name": "StudentTestName:21",
+                    "id": 18763
+                },
+                {
+                    "Student name": "StudentTestName:46",
+                    "id": 11592
+                },
+                {
+                    "Student name": "StudentTestName:497",
+                    "id": 18114
+                },
+                {
+                    "Student name": "StudentTestName:127",
+                    "id": 19764
+                },
+                {
+                    "Student name": "StudentTestName:577",
+                    "id": 19973
+                },
+                {
+                    "Student name": "StudentTestName:446",
+                    "id": 19714
+                }
+            ],
+            "section": 5
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:403",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "INDS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAIS",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "CHIL",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "JAPN",
+                            "Section": 4
+                        }
+                    ],
+                    "id": 13307,
+                    "age": 46,
+                    "faculty": "SCIENCE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:270",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAIS",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "PHYS",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "PHRM",
+                            "Section": 1
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ENPP",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAMA",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "CNRS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "EDUC",
+                            "Section": 6
+                        }
+                    ],
+                    "id": 18112,
+                    "age": 44,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 4,
+            "SubjectCode": "LAIS",
+            "taList": [{
+                "gender": "OTHERS",
+                "yearsOfExperience": 1,
+                "isCovidPositive": false,
+                "name": "TA TestName:231",
+                "id": 12706,
+                "age": 20,
+                "faculty": "EDUCATION",
+                "wage": 15.2
+            }],
+            "studentList": [
+                {
+                    "Student name": "StudentTestName:577",
+                    "id": 19973
+                },
+                {
+                    "Student name": "StudentTestName:127",
+                    "id": 19764
+                },
+                {
+                    "Student name": "StudentTestName:194",
+                    "id": 17803
+                },
+                {
+                    "Student name": "StudentTestName:497",
+                    "id": 18114
+                },
+                {
+                    "Student name": "StudentTestName:241",
+                    "id": 11840
+                },
+                {
+                    "Student name": "StudentTestName:46",
+                    "id": 11592
+                },
+                {
+                    "Student name": "StudentTestName:448",
+                    "id": 16978
+                },
+                {
+                    "Student name": "StudentTestName:21",
+                    "id": 18763
+                },
+                {
+                    "Student name": "StudentTestName:786",
+                    "id": 12916
+                },
+                {
+                    "Student name": "StudentTestName:446",
+                    "id": 19714
+                }
+            ],
+            "section": 9
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:648",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "STS",
+                            "Section": 0
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "INDS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "BOTA",
+                            "Section": 7
+                        }
+                    ],
+                    "id": 11340,
+                    "age": 29,
+                    "faculty": "MEDICINE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:115",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "BOTA",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BIOF",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "AUDI",
+                            "Section": 3
+                        }
+                    ],
+                    "id": 18297,
+                    "age": 26,
+                    "faculty": "ARTS",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 3,
+            "SubjectCode": "BOTA",
+            "taList": [{
+                "gender": "NEUTRAL",
+                "yearsOfExperience": 2,
+                "isCovidPositive": false,
+                "name": "TA TestName:781",
+                "id": 12310,
+                "age": 32,
+                "faculty": "ARTS",
+                "wage": 15.2
+            }],
+            "studentList": [],
+            "section": 7
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:403",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "INDS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAIS",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "CHIL",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "JAPN",
+                            "Section": 4
+                        }
+                    ],
+                    "id": 13307,
+                    "age": 46,
+                    "faculty": "SCIENCE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "MALE",
+                    "yearsOfExperience": 2,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:737",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "ITST",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "CHIL",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAIT",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "LIBR",
+                            "Section": 5
+                        }
+                    ],
+                    "id": 15779,
+                    "age": 30,
+                    "faculty": "PHARMACEUTICAL_SCIENCES",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 4,
+            "SubjectCode": "CHIL",
+            "taList": [{
+                "gender": "NEUTRAL",
+                "yearsOfExperience": 4,
+                "isCovidPositive": false,
+                "name": "TA TestName:375",
+                "id": 19971,
+                "age": 15,
+                "faculty": "PHARMACEUTICAL_SCIENCES",
+                "wage": 15.2
+            }],
+            "studentList": [],
+            "section": 9
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:270",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAIS",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "PHYS",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "PHRM",
+                            "Section": 1
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ENPP",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAMA",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "CNRS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "EDUC",
+                            "Section": 6
+                        }
+                    ],
+                    "id": 18112,
+                    "age": 44,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "TRANS",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:557",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ASL",
+                            "Section": 2
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "PHYS",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "AGEC",
+                            "Section": 3
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "EDUC",
+                            "Section": 6
+                        }
+                    ],
+                    "id": 13995,
+                    "age": 45,
+                    "faculty": "APPLIED_SCIENCE",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 4,
+            "SubjectCode": "PHYS",
+            "taList": [{
+                "gender": "TRANS",
+                "yearsOfExperience": 2,
+                "isCovidPositive": false,
+                "name": "TA TestName:239",
+                "id": 13715,
+                "age": 15,
+                "faculty": "LAND_AND_FOOD_SYSTEM",
+                "wage": 15.2
+            }],
+            "studentList": [],
+            "section": 7
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:403",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "INDS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAIS",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "CHIL",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "JAPN",
+                            "Section": 4
+                        }
+                    ],
+                    "id": 13307,
+                    "age": 46,
+                    "faculty": "SCIENCE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:741",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAHR",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "JAPN",
+                            "Section": 4
+                        }
+                    ],
+                    "id": 10240,
+                    "age": 43,
+                    "faculty": "DENTISTRY",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 3,
+            "SubjectCode": "JAPN",
+            "taList": [
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:115",
+                    "id": 19935,
+                    "age": 41,
+                    "faculty": "FORESTRY",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:31",
+                    "id": 18627,
+                    "age": 30,
+                    "faculty": "SCIENCE",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [],
+            "section": 4
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:915",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "AGEC",
+                            "Section": 3
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAIT",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ASIC",
+                            "Section": 6
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAW",
+                            "Section": 7
+                        }
+                    ],
+                    "id": 18356,
+                    "age": 46,
+                    "faculty": "NO_FACULTY",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "TRANS",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:557",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ASL",
+                            "Section": 2
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "PHYS",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "AGEC",
+                            "Section": 3
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "EDUC",
+                            "Section": 6
+                        }
+                    ],
+                    "id": 13995,
+                    "age": 45,
+                    "faculty": "APPLIED_SCIENCE",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 4,
+            "SubjectCode": "AGEC",
+            "taList": [
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 3,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:268",
+                    "id": 13526,
+                    "age": 40,
+                    "faculty": "SCIENCE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:280",
+                    "id": 11475,
+                    "age": 5,
+                    "faculty": "PHARMACEUTICAL_SCIENCES",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [],
+            "section": 3
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 3,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:376",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAPA",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "CSPW",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAMA",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "LIBR",
+                            "Section": 5
+                        }
+                    ],
+                    "id": 17442,
+                    "age": 20,
+                    "faculty": "COMMERCE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "TRANS",
+                    "yearsOfExperience": 3,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:916",
+                    "TeachingCourses": [{
+                        "Credits": 4,
+                        "SubjectCode": "BAPA",
+                        "Section": 4
+                    }],
+                    "id": 11451,
+                    "age": 8,
+                    "faculty": "ARTS",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 4,
+            "SubjectCode": "BAPA",
+            "taList": [{
+                "gender": "NEUTRAL",
+                "yearsOfExperience": 1,
+                "isCovidPositive": false,
+                "name": "TA TestName:825",
+                "id": 19843,
+                "age": 47,
+                "faculty": "NO_FACULTY",
+                "wage": 15.2
+            }],
+            "studentList": [],
+            "section": 4
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:115",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "BOTA",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BIOF",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "AUDI",
+                            "Section": 3
+                        }
+                    ],
+                    "id": 18297,
+                    "age": 26,
+                    "faculty": "ARTS",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "TRANS",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:905",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BIOF",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "ARC",
+                            "Section": 7
+                        }
+                    ],
+                    "id": 14652,
+                    "age": 39,
+                    "faculty": "FORESTRY",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 4,
+            "SubjectCode": "BIOF",
+            "taList": [{
+                "gender": "NEUTRAL",
+                "yearsOfExperience": 4,
+                "isCovidPositive": false,
+                "name": "TA TestName:750",
+                "id": 17919,
+                "age": 1,
+                "faculty": "MEDICINE",
+                "wage": 15.2
+            }],
+            "studentList": [],
+            "section": 9
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "MALE",
+                    "yearsOfExperience": 2,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:737",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "ITST",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "CHIL",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAIT",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "LIBR",
+                            "Section": 5
+                        }
+                    ],
+                    "id": 15779,
+                    "age": 30,
+                    "faculty": "PHARMACEUTICAL_SCIENCES",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:915",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "AGEC",
+                            "Section": 3
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAIT",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ASIC",
+                            "Section": 6
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAW",
+                            "Section": 7
+                        }
+                    ],
+                    "id": 18356,
+                    "age": 46,
+                    "faculty": "NO_FACULTY",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 4,
+            "SubjectCode": "BAIT",
+            "taList": [{
+                "gender": "MALE",
+                "yearsOfExperience": 2,
+                "isCovidPositive": false,
+                "name": "TA TestName:23",
+                "id": 14294,
+                "age": 37,
+                "faculty": "MEDICINE",
+                "wage": 15.2
+            }],
+            "studentList": [],
+            "section": 4
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 3,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:376",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAPA",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "CSPW",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAMA",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "LIBR",
+                            "Section": 5
+                        }
+                    ],
+                    "id": 17442,
+                    "age": 20,
+                    "faculty": "COMMERCE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 2,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:708",
+                    "TeachingCourses": [{
+                        "Credits": 4,
+                        "SubjectCode": "CSPW",
+                        "Section": 4
+                    }],
+                    "id": 17029,
+                    "age": 8,
+                    "faculty": "ARTS",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 4,
+            "SubjectCode": "CSPW",
+            "taList": [
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 3,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:638",
+                    "id": 12008,
+                    "age": 19,
+                    "faculty": "ARTS",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "TRANS",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:287",
+                    "id": 10950,
+                    "age": 38,
+                    "faculty": "NO_FACULTY",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [],
+            "section": 4
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 3,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:855",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "PHRM",
+                            "Section": 1
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "CNRS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "AUDI",
+                            "Section": 3
+                        }
+                    ],
+                    "id": 15291,
+                    "age": 11,
+                    "faculty": "DENTISTRY",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:270",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAIS",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "PHYS",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "PHRM",
+                            "Section": 1
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ENPP",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAMA",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "CNRS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "EDUC",
+                            "Section": 6
+                        }
+                    ],
+                    "id": 18112,
+                    "age": 44,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 3,
+            "SubjectCode": "PHRM",
+            "taList": [
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:160",
+                    "id": 17454,
+                    "age": 16,
+                    "faculty": "NO_FACULTY",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "TRANS",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:743",
+                    "id": 14710,
+                    "age": 48,
+                    "faculty": "MEDICINE",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [],
+            "section": 1
+        },
+        {
+            "instructorList": [{
+                "gender": "FEMALE",
+                "yearsOfExperience": 4,
+                "isCovidPositive": false,
+                "name": "InstructorTestName:593",
+                "TeachingCourses": [
+                    {
+                        "Credits": 4,
+                        "SubjectCode": "BAHR",
+                        "Section": 5
+                    },
+                    {
+                        "Credits": 3,
+                        "SubjectCode": "FSCT",
+                        "Section": 8
+                    },
+                    {
+                        "Credits": 3,
+                        "SubjectCode": "IWME",
+                        "Section": 5
+                    },
+                    {
+                        "Credits": 4,
+                        "SubjectCode": "ARC",
+                        "Section": 7
+                    }
+                ],
+                "id": 17069,
+                "age": 40,
+                "faculty": "SCIENCE",
+                "wage": 15.2
+            }],
+            "Credit": 3,
+            "SubjectCode": "FSCT",
+            "taList": [{
+                "gender": "OTHERS",
+                "yearsOfExperience": 3,
+                "isCovidPositive": false,
+                "name": "TA TestName:309",
+                "id": 12724,
+                "age": 6,
+                "faculty": "EDUCATION",
+                "wage": 15.2
+            }],
+            "studentList": [],
+            "section": 8
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:589",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ENPP",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "IWME",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "PSYC",
+                            "Section": 3
+                        }
+                    ],
+                    "id": 15860,
+                    "age": 19,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:270",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAIS",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "PHYS",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "PHRM",
+                            "Section": 1
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ENPP",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAMA",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "CNRS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "EDUC",
+                            "Section": 6
+                        }
+                    ],
+                    "id": 18112,
+                    "age": 44,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 3,
+            "SubjectCode": "ENPP",
+            "taList": [
+                {
+                    "gender": "MALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:441",
+                    "id": 18444,
+                    "age": 1,
+                    "faculty": "FORESTRY",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:115",
+                    "id": 19935,
+                    "age": 41,
+                    "faculty": "FORESTRY",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [],
+            "section": 4
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:915",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "AGEC",
+                            "Section": 3
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAIT",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ASIC",
+                            "Section": 6
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAW",
+                            "Section": 7
+                        }
+                    ],
+                    "id": 18356,
+                    "age": 46,
+                    "faculty": "NO_FACULTY",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:553",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ASL",
+                            "Section": 2
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ASIC",
+                            "Section": 6
+                        }
+                    ],
+                    "id": 13376,
+                    "age": 36,
+                    "faculty": "ARTS",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 3,
+            "SubjectCode": "ASIC",
+            "taList": [
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 3,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:543",
+                    "id": 16954,
+                    "age": 35,
+                    "faculty": "DENTISTRY",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 3,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:309",
+                    "id": 12724,
+                    "age": 6,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [],
+            "section": 6
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 3,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:376",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAPA",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "CSPW",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAMA",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "LIBR",
+                            "Section": 5
+                        }
+                    ],
+                    "id": 17442,
+                    "age": 20,
+                    "faculty": "COMMERCE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:270",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAIS",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "PHYS",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "PHRM",
+                            "Section": 1
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ENPP",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAMA",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "CNRS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "EDUC",
+                            "Section": 6
+                        }
+                    ],
+                    "id": 18112,
+                    "age": 44,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 4,
+            "SubjectCode": "BAMA",
+            "taList": [
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:771",
+                    "id": 14740,
+                    "age": 13,
+                    "faculty": "ARTS",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:613",
+                    "id": 17586,
+                    "age": 15,
+                    "faculty": "FORESTRY",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [],
+            "section": 7
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 3,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:855",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "PHRM",
+                            "Section": 1
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "CNRS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "AUDI",
+                            "Section": 3
+                        }
+                    ],
+                    "id": 15291,
+                    "age": 11,
+                    "faculty": "DENTISTRY",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:270",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAIS",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "PHYS",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "PHRM",
+                            "Section": 1
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ENPP",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAMA",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "CNRS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "EDUC",
+                            "Section": 6
+                        }
+                    ],
+                    "id": 18112,
+                    "age": 44,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 3,
+            "SubjectCode": "CNRS",
+            "taList": [{
+                "gender": "FEMALE",
+                "yearsOfExperience": 1,
+                "isCovidPositive": false,
+                "name": "TA TestName:31",
+                "id": 18627,
+                "age": 30,
+                "faculty": "SCIENCE",
+                "wage": 15.2
+            }],
+            "studentList": [],
+            "section": 5
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "MALE",
+                    "yearsOfExperience": 2,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:737",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "ITST",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "CHIL",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAIT",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "LIBR",
+                            "Section": 5
+                        }
+                    ],
+                    "id": 15779,
+                    "age": 30,
+                    "faculty": "PHARMACEUTICAL_SCIENCES",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 3,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:376",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAPA",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "CSPW",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAMA",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "LIBR",
+                            "Section": 5
+                        }
+                    ],
+                    "id": 17442,
+                    "age": 20,
+                    "faculty": "COMMERCE",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 3,
+            "SubjectCode": "LIBR",
+            "taList": [
+                {
+                    "gender": "MALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:639",
+                    "id": 18141,
+                    "age": 42,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:31",
+                    "id": 18627,
+                    "age": 30,
+                    "faculty": "SCIENCE",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [],
+            "section": 5
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 3,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:855",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "PHRM",
+                            "Section": 1
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "CNRS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "AUDI",
+                            "Section": 3
+                        }
+                    ],
+                    "id": 15291,
+                    "age": 11,
+                    "faculty": "DENTISTRY",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:115",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "BOTA",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BIOF",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "AUDI",
+                            "Section": 3
+                        }
+                    ],
+                    "id": 18297,
+                    "age": 26,
+                    "faculty": "ARTS",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 3,
+            "SubjectCode": "AUDI",
+            "taList": [
+                {
+                    "gender": "TRANS",
+                    "yearsOfExperience": 2,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:263",
+                    "id": 10718,
+                    "age": 12,
+                    "faculty": "COMMERCE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:974",
+                    "id": 11702,
+                    "age": 13,
+                    "faculty": "APPLIED_SCIENCE",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [],
+            "section": 3
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "TRANS",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:557",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ASL",
+                            "Section": 2
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "PHYS",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "AGEC",
+                            "Section": 3
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "EDUC",
+                            "Section": 6
+                        }
+                    ],
+                    "id": 13995,
+                    "age": 45,
+                    "faculty": "APPLIED_SCIENCE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:270",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAIS",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "PHYS",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "PHRM",
+                            "Section": 1
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ENPP",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAMA",
+                            "Section": 7
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "CNRS",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "EDUC",
+                            "Section": 6
+                        }
+                    ],
+                    "id": 18112,
+                    "age": 44,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 3,
+            "SubjectCode": "EDUC",
+            "taList": [{
+                "gender": "NEUTRAL",
+                "yearsOfExperience": 1,
+                "isCovidPositive": false,
+                "name": "TA TestName:825",
+                "id": 19843,
+                "age": 47,
+                "faculty": "NO_FACULTY",
+                "wage": 15.2
+            }],
+            "studentList": [],
+            "section": 6
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:589",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ENPP",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "IWME",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "PSYC",
+                            "Section": 3
+                        }
+                    ],
+                    "id": 15860,
+                    "age": 19,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:593",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAHR",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "FSCT",
+                            "Section": 8
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "IWME",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "ARC",
+                            "Section": 7
+                        }
+                    ],
+                    "id": 17069,
+                    "age": 40,
+                    "faculty": "SCIENCE",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 3,
+            "SubjectCode": "IWME",
+            "taList": [
+                {
+                    "gender": "MALE",
+                    "yearsOfExperience": 2,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:23",
+                    "id": 14294,
+                    "age": 37,
+                    "faculty": "MEDICINE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "MALE",
+                    "yearsOfExperience": 2,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:722",
+                    "id": 18921,
+                    "age": 26,
+                    "faculty": "PHARMACEUTICAL_SCIENCES",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [],
+            "section": 5
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:593",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAHR",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "FSCT",
+                            "Section": 8
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "IWME",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "ARC",
+                            "Section": 7
+                        }
+                    ],
+                    "id": 17069,
+                    "age": 40,
+                    "faculty": "SCIENCE",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "TRANS",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:905",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BIOF",
+                            "Section": 9
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "ARC",
+                            "Section": 7
+                        }
+                    ],
+                    "id": 14652,
+                    "age": 39,
+                    "faculty": "FORESTRY",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 4,
+            "SubjectCode": "ARC",
+            "taList": [
+                {
+                    "gender": "MALE",
+                    "yearsOfExperience": 2,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:617",
+                    "id": 19376,
+                    "age": 7,
+                    "faculty": "NO_FACULTY",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "NEUTRAL",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:375",
+                    "id": 19971,
+                    "age": 15,
+                    "faculty": "PHARMACEUTICAL_SCIENCES",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [],
+            "section": 7
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:19",
+                    "TeachingCourses": [{
+                        "Credits": 4,
+                        "SubjectCode": "LAW",
+                        "Section": 7
+                    }],
+                    "id": 15008,
+                    "age": 6,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:915",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "AGEC",
+                            "Section": 3
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "BAIT",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ASIC",
+                            "Section": 6
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "LAW",
+                            "Section": 7
+                        }
+                    ],
+                    "id": 18356,
+                    "age": 46,
+                    "faculty": "NO_FACULTY",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 4,
+            "SubjectCode": "LAW",
+            "taList": [
+                {
+                    "gender": "TRANS",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:287",
+                    "id": 10950,
+                    "age": 38,
+                    "faculty": "NO_FACULTY",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "TRANS",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "TA TestName:528",
+                    "id": 15653,
+                    "age": 20,
+                    "faculty": "SCIENCE",
+                    "wage": 15.2
+                }
+            ],
+            "studentList": [],
+            "section": 7
+        },
+        {
+            "instructorList": [
+                {
+                    "gender": "OTHERS",
+                    "yearsOfExperience": 1,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:950",
+                    "TeachingCourses": [{
+                        "Credits": 4,
+                        "SubjectCode": "PSYC",
+                        "Section": 3
+                    }],
+                    "id": 16031,
+                    "age": 38,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                },
+                {
+                    "gender": "FEMALE",
+                    "yearsOfExperience": 4,
+                    "isCovidPositive": false,
+                    "name": "InstructorTestName:589",
+                    "TeachingCourses": [
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "ENPP",
+                            "Section": 4
+                        },
+                        {
+                            "Credits": 3,
+                            "SubjectCode": "IWME",
+                            "Section": 5
+                        },
+                        {
+                            "Credits": 4,
+                            "SubjectCode": "PSYC",
+                            "Section": 3
+                        }
+                    ],
+                    "id": 15860,
+                    "age": 19,
+                    "faculty": "EDUCATION",
+                    "wage": 15.2
+                }
+            ],
+            "Credit": 4,
+            "SubjectCode": "PSYC",
+            "taList": [{
+                "gender": "NEUTRAL",
+                "yearsOfExperience": 4,
+                "isCovidPositive": false,
+                "name": "TA TestName:566",
+                "id": 10296,
+                "age": 3,
+                "faculty": "COMMERCE",
+                "wage": 15.2
+            }],
+            "studentList": [],
+            "section": 3
+        }
+    ]
+}

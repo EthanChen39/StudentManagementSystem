@@ -1,0 +1,76 @@
+{
+    "instructorList": [{
+        "gender": "TRANS",
+        "yearsOfExperience": 3,
+        "isCovidPositive": false,
+        "name": "InstructorTestName:820",
+        "TeachingCourses": [{
+            "Credits": 4,
+            "SubjectCode": "BAHR",
+            "Section": 2
+        }],
+        "id": 15389,
+        "age": 14,
+        "faculty": "NO_FACULTY",
+        "wage": 15.2
+    }],
+    "taList": [{
+        "gender": "MALE",
+        "yearsOfExperience": 3,
+        "isCovidPositive": false,
+        "name": "TA TestName:481",
+        "id": 12302,
+        "age": 38,
+        "faculty": "COMMERCE",
+        "wage": 15.2
+    }],
+    "studentList": [{
+        "Grades": [{"[Business Administration: Human Resources Management] section (2) with credits {4} has 1 student(s). Main Instructor: InstructorTestName:820.": 55}],
+        "YearLevel": "JUNIOR",
+        "gender": "MALE",
+        "isCovidPositive": false,
+        "name": "Ethan",
+        "Courses": [{
+            "Credits": 4,
+            "Subject Code": "BAHR",
+            "Section": 2
+        }],
+        "id": 123456,
+        "age": 21,
+        "faculty": "SCIENCE"
+    }],
+    "courseList": [{
+        "instructorList": [{
+            "gender": "TRANS",
+            "yearsOfExperience": 3,
+            "isCovidPositive": false,
+            "name": "InstructorTestName:820",
+            "TeachingCourses": [{
+                "Credits": 4,
+                "SubjectCode": "BAHR",
+                "Section": 2
+            }],
+            "id": 15389,
+            "age": 14,
+            "faculty": "NO_FACULTY",
+            "wage": 15.2
+        }],
+        "Credit": 4,
+        "SubjectCode": "BAHR",
+        "taList": [{
+            "gender": "MALE",
+            "yearsOfExperience": 3,
+            "isCovidPositive": false,
+            "name": "TA TestName:481",
+            "id": 12302,
+            "age": 38,
+            "faculty": "COMMERCE",
+            "wage": 15.2
+        }],
+        "studentList": [{
+            "Student name": "Ethan",
+            "id": 123456
+        }],
+        "section": 2
+    }]
+}
